@@ -1,0 +1,22 @@
+{
+  "name": "moz-fest-science-viz",
+  "version": "0.0.1",
+  "author": "Amit Kapadia <akapad@gmail.com>",
+  "description": "Scientific Data Visualization session for Mozilla Fest 2013",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kapadia/moz-fest-science-viz.git"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/http-server"
+  },
+  "keywords": [
+    "science",
+    "data",
+    "visualization"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "~0.5.x"
+  }
+}
